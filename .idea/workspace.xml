@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b1f2046-c834-4f63-af71-b20ee432239b" name="Default Changelist" comment="Added events and change state">
-      <change afterPath="$PROJECT_DIR$/src/components/app-header/app-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app-header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search-panel/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
-    </list>
+    <list default="true" id="2b1f2046-c834-4f63-af71-b20ee432239b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +47,7 @@
       <updated>1577951122357</updated>
       <workItem from="1577951125679" duration="2442000" />
       <workItem from="1578037171735" duration="936000" />
-      <workItem from="1578048490729" duration="2358000" />
+      <workItem from="1578048490729" duration="2623000" />
     </task>
     <task id="LOCAL-00001" summary="Added events and change state">
       <created>1578051321321</created>
@@ -75,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578051321321</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added events and change state">
+      <created>1578051469695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578051469695</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
